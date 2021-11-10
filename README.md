@@ -7,7 +7,7 @@ I have been working on the web since 2008
 - `JavaScript`, `php`, `WordPress`, `React`, `SASS`
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
+- [g.kanoufi@gmail.com](mailto:g.kanoufi@gmail.com)
 
 <!--
 **g-kanoufi/g-kanoufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
