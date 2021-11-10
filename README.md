@@ -5,7 +5,7 @@ I have been working on the web since 2008
 
 ### ⚡ Skills
 - `JavaScript`, `React`, `Styled Components`
-- `REST`, `GRAPHQL`, `API integrations`
+- `REST`, `GRAPHQL`, `APIs integration`
 - `PHP`, `WordPress`
 - `CSS`, `SASS`, `Tailwind` and other css frameworks
 
