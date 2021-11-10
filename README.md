@@ -3,11 +3,13 @@
 I'm Guillaume a 42 years old web developer.
 I have been working on the web since 2008
 
-## Skills
-- `JavaScript`, `php`, `WordPress`, `React`, `SASS`
+## Skills ⚡
+- `JavaScript`, `React`, `Styled Components`
+- `PHP`, `WordPress`
+- `CSS`, `SASS`, `Tailwind` and other css frameworks
 
-## Contact
-- [g.kanoufi@gmail.com](mailto:g.kanoufi@gmail.com)
+## Contact 📫
+-  [g.kanoufi@gmail.com](mailto:g.kanoufi@gmail.com)
 
 <!--
 **g-kanoufi/g-kanoufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
