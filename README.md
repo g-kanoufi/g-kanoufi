@@ -1,12 +1,13 @@
 ### 👋 Hey
 
-I'm Guillaume a 42 years old web developer.
-I have been working on the web since 2008
+I'm Guillaume a 42 years old web developer specialized in Front-end and WordPress development.
+Working on the web since 2008.
+
 
 ### ⚡ Skills
 - `JavaScript`, `React`, `Styled Components`
 - `REST`, `GRAPHQL`, `APIs integration`
-- `PHP`, `WordPress`
+- `PHP`, `WordPress`, `Headless CMS`
 - `CSS`, `SASS`, `Tailwind` and other css frameworks
 
 ### 📫 Contact
