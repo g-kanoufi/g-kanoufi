@@ -1,14 +1,14 @@
-### 👋 Hey
+### 👋 Hi, I am Guillaume
 
-I'm Guillaume a 42 years old web developer specialized in Front-end and WordPress development.\
+Web developer specialized in Front-end and WordPress development.\
 Working on the web since 2008.
-
 
 ### ⚡ Skills
 - `JavaScript`, `React`, `Styled Components`
 - `REST`, `GRAPHQL`, `APIs integration`
 - `PHP`, `WordPress`, `Headless CMS`
-- `CSS`, `SASS`, `Tailwind` and other css frameworks
+- `CSS`, `SASS`, `Tailwind` **and other css frameworks**
+- 🌱 I’m currently learning **Cyber Security**
 
 ### 📫 Contact
 -  [g.kanoufi@gmail.com](mailto:g.kanoufi@gmail.com)
@@ -19,7 +19,7 @@ Working on the web since 2008.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
