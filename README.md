@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey 👋
+
+I'm Guillaume a 42 years old web developer.
+I have been working on the web since 2008
+
+## Skills
+- `JavaScript`, `php`, `WordPress`, `React`, `SASS`
+
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
 
 <!--
 **g-kanoufi/g-kanoufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
