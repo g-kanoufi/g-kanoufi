@@ -1,14 +1,14 @@
-### Hey 👋
+### 👋 Hey
 
 I'm Guillaume a 42 years old web developer.
 I have been working on the web since 2008
 
-## Skills ⚡
+### ⚡ Skills
 - `JavaScript`, `React`, `Styled Components`
 - `PHP`, `WordPress`
 - `CSS`, `SASS`, `Tailwind` and other css frameworks
 
-## Contact 📫
+### 📫 Contact
 -  [g.kanoufi@gmail.com](mailto:g.kanoufi@gmail.com)
 
 <!--
