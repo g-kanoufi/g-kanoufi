@@ -1,6 +1,6 @@
 ### 👋 Hey
 
-I'm Guillaume a 42 years old web developer specialized in Front-end and WordPress development.
+I'm Guillaume a 42 years old web developer specialized in Front-end and WordPress development.\
 Working on the web since 2008.
 
 
