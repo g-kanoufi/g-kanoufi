@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Guillaume
 
-Web developer specialized in Front-end and WordPress development.\
+Web developer specialized in React and Headless WordPress development.\
 Working on the web since 2008.
 
 ### 📫 Contact
